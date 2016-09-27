@@ -26,21 +26,19 @@ public final class R {
         public static final int preview=0x7f020001;
     }
     public static final class id {
-        public static final int action_exit=0x7f090009;
+        public static final int action_exit=0x7f090008;
         public static final int button_n2t=0x7f090002;
         public static final int button_t2n=0x7f090003;
-        public static final int date=0x7f090007;
         public static final int field_n_day=0x7f090000;
         public static final int field_n_year=0x7f090001;
         public static final int field_t_day=0x7f090004;
         public static final int field_t_month=0x7f090005;
         public static final int field_t_year=0x7f090006;
-        public static final int textOut=0x7f090008;
+        public static final int textOut=0x7f090007;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int layout_widget=0x7f030001;
-        public static final int widget_layout=0x7f030002;
+        public static final int widget_layout=0x7f030001;
     }
     public static final class menu {
         public static final int main=0x7f080000;
